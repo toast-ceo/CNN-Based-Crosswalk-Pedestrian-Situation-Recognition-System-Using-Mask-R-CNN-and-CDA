@@ -8,7 +8,7 @@
 
 This repository is the dataset for the paper "CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA".
 
-![Untitled](ReadME%20md%20fd7066b4a4b143e4a0dc15bb6acb4a4d/Untitled.png)
+![Untitled](https://github.com/toast-ceo/CNN-Based-Crosswalk-Pedestrian-Situation-Recognition-System-Using-Mask-R-CNN-and-CDA/blob/main/docs/pocess.png?raw=true)
 
 ## Datasets
 
