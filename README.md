@@ -1,7 +1,3 @@
-# ReadME.md
-
-생성일: 2023년 3월 13일 오후 8:58
-
 # **CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA**
 
 
