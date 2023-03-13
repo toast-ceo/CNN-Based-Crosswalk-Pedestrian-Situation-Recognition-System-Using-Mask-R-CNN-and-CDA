@@ -35,5 +35,4 @@ The crosswalk pedestrians situation recognition datasets contain 510 images for 
 						├── Danger(Outside)
 						└── Safety(Inside)
 
-
 ```
