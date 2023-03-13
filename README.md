@@ -12,27 +12,27 @@ The crosswalk pedestrians situation recognition datasets contain 510 images for 
 
 ```markdown
 └── Data
-		├── Experiment I
-		│   ├── Original
-		│   │   ├── Test
-		│   │   │   ├── Danger(Outside)
-		│   │   │   └── Safety(Inside)
-		│   └── Training
-		│   │   │   ├── Danger(Outside)
-		│   │   │   └── Safety(Inside)
-		│   └── Processed
-		│ 			├── Test
-		│				│   ├── Danger(Outside)
-		│				│   └── Safety(Inside)
-		│				└── Training
-		│						├── Danger(Outside)
-		│						└── Safety(Inside)
-		└── Experiment II
-				├── Test
-				│   ├── Danger(Outside)
-				│   └── Safety(Inside)
-				└── Training
-						├── Danger(Outside)
-						└── Safety(Inside)
+    ├── Experiment I
+        │   ├── Original
+	│   │   ├── Test
+	│   │   │   ├── Danger(Outside)
+	│   │   │   └── Safety(Inside)
+	│   └── Training
+	│   │   │   ├── Danger(Outside)
+	│   │   │   └── Safety(Inside)
+	│   └── Processed
+	│ 	├── Test
+	│	│   ├── Danger(Outside)
+	│	│   └── Safety(Inside)
+	│	└── Training
+	│	    ├── Danger(Outside)
+	│	    └── Safety(Inside)
+	└── Experiment II
+	    ├── Test
+	    │   ├── Danger(Outside)
+	    │   └── Safety(Inside)
+	    └── Training
+		├── Danger(Outside)
+		└── Safety(Inside)
 
 ```
