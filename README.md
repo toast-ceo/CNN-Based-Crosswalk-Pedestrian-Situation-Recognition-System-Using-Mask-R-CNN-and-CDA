@@ -4,7 +4,6 @@
 
 # **CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA**
 
----
 
 This repository is the dataset for the paper "CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA".
 
@@ -12,7 +11,6 @@ This repository is the dataset for the paper "CNN-Based Crosswalk Pedestrian Sit
 
 ## Datasets
 
----
 
 The crosswalk pedestrians situation recognition datasets contain 510 images for original, 510 images for processed and 800 for box.****
 
